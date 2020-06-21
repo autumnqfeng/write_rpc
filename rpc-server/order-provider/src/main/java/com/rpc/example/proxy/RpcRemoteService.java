@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
  * 服务端服务发现注解
  *
  * @author: qiufeng
- * @date: 2020/6/20 16:21
+ * @date: 2020/6/21 16:21
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

@@ -6,7 +6,7 @@ import java.io.Serializable;
  * rpc通信参数传递类
  *
  * @author: qiufeng
- * @date: 2020/6/20 16:00
+ * @date: 2020/6/21 16:00
  */
 public class RpcRequest implements Serializable {
     private static final long serialVersionUID = 5602161762057659482L;

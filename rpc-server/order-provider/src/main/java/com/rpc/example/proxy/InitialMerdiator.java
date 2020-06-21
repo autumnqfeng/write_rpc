@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
  * 初始化中间代理层对象
  *
  * @author: qiufeng
- * @date: 2020/6/20 16:33
+ * @date: 2020/6/21 16:33
  */
 @Component
 public class InitialMerdiator implements BeanPostProcessor {

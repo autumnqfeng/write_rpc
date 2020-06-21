@@ -5,7 +5,7 @@ import com.rpc.example.service.ITestService;
 
 /**
  * @author: qiufeng
- * @date: 2020/6/20 16:06
+ * @date: 2020/6/21 16:06
  */
 @RpcRemoteService
 public class TestServiceImpl implements ITestService {

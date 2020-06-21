@@ -5,7 +5,7 @@ import com.rpc.example.service.IOrderService;
 
 /**
  * @author: qiufeng
- * @date: 2020/6/20 16:04
+ * @date: 2020/6/21 16:04
  */
 @RpcRemoteService
 public class OrderServiceImpl implements IOrderService {
